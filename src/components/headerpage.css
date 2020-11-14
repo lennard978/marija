@@ -1,0 +1,17 @@
+.header-layout {
+	background-image: url("../slike/header.JPG");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.layout {
+	position: absolute;
+	background-color: rgba(0, 0, 0, 0.486);
+	width: 100%;
+	height: 100%;
+	z-index: 0;
+}
+.header-layout h1 {
+	z-index: 100;
+	color: white;
+}

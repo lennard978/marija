@@ -1,0 +1,291 @@
+[
+	{
+		"id": 1,
+		"title": "True Touch",
+		"category": "ljubimci",
+		"image": "./images/truetouch.jpg",
+		"price": 0,
+		"stars": 5,
+		"taxes": 120,
+		"stocks": 10,
+		"action": true
+	},
+	{
+		"id": 2,
+		"title": "Smart Fitnes",
+		"category": "elektrika",
+		"image": "./images/smartfitnes.jpg",
+		"price": 1690,
+		"stars": 4.5,
+		"taxes": 120,
+		"stocks": 10,
+		"action": true
+	},
+	{
+		"id": 3,
+		"title": "Shake N Take",
+		"category": "elektrika",
+		"image": "./images/shakentake.jpg",
+		"price": 0,
+		"stars": 4.8,
+		"taxes": 120,
+		"stocks": 10,
+		"action": true
+	},
+	{
+		"id": 4,
+		"title": "Helanke za mrsavljenje",
+		"category": "lepota",
+		"image": "./images/hotshapers.jpg",
+		"price": 990,
+		"stars": 3.0,
+		"taxes": 120,
+		"stocks": 10,
+		"action": true
+	},
+	{
+		"id": 5,
+		"title": "Scholl",
+		"category": "lepota",
+		"image": "./images/scholl.jpg",
+		"price": 790,
+		"stars": 4.8,
+		"taxes": 120,
+		"stocks": 10,
+		"action": true
+	},
+	{
+		"id": 6,
+		"title": "Hip Trainer",
+		"category": "lepota",
+		"image": "./images/hiptrainer.jpg",
+		"price": 990,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10,
+		"action": true
+	},
+	{
+		"id": 7,
+		"title": "Cekta za kosu",
+		"category": "lepota",
+		"image": "./images/cetka.jpg",
+		"price": 999,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10,
+		"action": true
+	},
+	{
+		"id": 8,
+		"title": "HD Vision",
+		"category": "elektrika",
+		"image": "./images/hd.jpg",
+		"price": 990,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10,
+		"action": true
+	},
+	{
+		"id": 9,
+		"title": "Rukavice za bastu",
+		"category": "pomoc",
+		"image": "./images/rukavice.jpg",
+		"price": 590,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10,
+		"action": true
+	},
+	{
+		"id": 10,
+		"title": "Magic Mesh",
+		"category": "pomoc",
+		"image": "./images/magic.JPG",
+		"price": 990,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 11,
+		"title": "Protiv Mitisera",
+		"category": "elektrika",
+		"image": "./images/mitiseri.jpg",
+		"price": 1690,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 12,
+		"title": "Ulozak Scholl",
+		"category": "pomoc",
+		"image": "./images/schollgel.JPG",
+		"price": 500,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 13,
+		"title": "Masazer za lice",
+		"category": "elektrika",
+		"image": "./images/masazerzalice.JPG",
+		"price": 790,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 14,
+		"title": "Spiralni Figaro",
+		"category": "elektrika",
+		"image": "./images/figaro.jpg",
+		"price": 990,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 15,
+		"title": "Pet Zoom",
+		"category": "ljubimci",
+		"image": "./images/petzoom.JPG",
+		"price": 990,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 16,
+		"title": "Rucni masazer",
+		"category": "elektrika",
+		"image": "./images/rucnimasazer.jpg",
+		"price": 1490,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 17,
+		"title": "Valjak",
+		"category": "pomoc",
+		"image": "./images/valjak.jpg",
+		"price": 1490,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 18,
+		"title": "Podrska za ledja",
+		"category": "lepota",
+		"image": "./images/podrska.jpg",
+		"price": 1190,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 19,
+		"title": "Sega",
+		"category": "elektrika",
+		"image": "./images/sega.jpg",
+		"price": 2190,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 20,
+		"title": "Sweet Trimer",
+		"category": "elektrika",
+		"image": "./images/sweettrimer.jpg",
+		"price": 990,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 21,
+		"title": "Finishing Touch",
+		"category": "elektrika",
+		"image": "./images/finishingtouch.jpg",
+		"price": 1490,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 22,
+		"title": "Gluteus Elektro Stimulator",
+		"category": "elektrika",
+		"image": "./images/gluteus.jpg",
+		"price": 1190,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 23,
+		"title": "Auto drzac za mobilni",
+		"category": "pomoc",
+		"image": "./images/auto.jpg",
+		"price": 990,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 24,
+		"title": "Pasta za zube",
+		"category": "lepota",
+		"image": "./images/beljenje.jpg",
+		"price": 650,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 25,
+		"title": "Sweet Sweat",
+		"category": "lepota",
+		"image": "./images/sweetsweat.jpg",
+		"price": 650,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 26,
+		"title": "Forever",
+		"category": "lepota",
+		"image": "./images/forever.jpg",
+		"price": 650,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 27,
+		"title": "Wonder Patch",
+		"category": "lepota",
+		"image": "./images/wonder.jpg",
+		"price": 700,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	},
+	{
+		"id": 28,
+		"title": "Korseti",
+		"category": "lepota",
+		"image": "./images/korset.jpg",
+		"price": 700,
+		"stars": 3.8,
+		"taxes": 120,
+		"stocks": 10
+	}
+]

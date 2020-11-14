@@ -1,0 +1,7 @@
+.best {
+	min-height: 100vh;
+	padding: 50px 0;
+}
+.best img {
+	min-height: 200px;
+}
