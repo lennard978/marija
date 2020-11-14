@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/marija/static/css/main.bc9b7a3c.chunk.css",
+    "main.js": "/marija/static/js/main.5cd761ab.chunk.js",
+    "main.js.map": "/marija/static/js/main.5cd761ab.chunk.js.map",
+    "runtime-main.js": "/marija/static/js/runtime-main.5bb5e9e0.js",
+    "runtime-main.js.map": "/marija/static/js/runtime-main.5bb5e9e0.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/marija/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.91f058c1.chunk.js": "/marija/static/js/2.91f058c1.chunk.js",
+    "static/js/2.91f058c1.chunk.js.map": "/marija/static/js/2.91f058c1.chunk.js.map",
+    "static/js/3.ad1a5b2f.chunk.js": "/marija/static/js/3.ad1a5b2f.chunk.js",
+    "static/js/3.ad1a5b2f.chunk.js.map": "/marija/static/js/3.ad1a5b2f.chunk.js.map",
+    "index.html": "/marija/index.html",
+    "service-worker.js": "/marija/service-worker.js",
+    "service-worker.js.map": "/marija/service-worker.js.map",
+    "static/css/2.1a02f21c.chunk.css.map": "/marija/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.bc9b7a3c.chunk.css.map": "/marija/static/css/main.bc9b7a3c.chunk.css.map",
+    "static/js/2.91f058c1.chunk.js.LICENSE.txt": "/marija/static/js/2.91f058c1.chunk.js.LICENSE.txt",
+    "static/media/headerpage.css": "/marija/static/media/header.62a883f8.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bb5e9e0.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.91f058c1.chunk.js",
+    "static/css/main.bc9b7a3c.chunk.css",
+    "static/js/main.5cd761ab.chunk.js"
+  ]
+}
