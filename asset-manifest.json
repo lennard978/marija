@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/marija/static/css/main.43868caa.chunk.css",
+    "main.css": "/marija/static/css/main.64b4acb4.chunk.css",
     "main.js": "/marija/static/js/main.fe5df5fc.chunk.js",
     "main.js.map": "/marija/static/js/main.fe5df5fc.chunk.js.map",
     "runtime-main.js": "/marija/static/js/runtime-main.3978ac82.js",
@@ -14,7 +14,7 @@
     "service-worker.js": "/marija/service-worker.js",
     "service-worker.js.map": "/marija/service-worker.js.map",
     "static/css/2.1a02f21c.chunk.css.map": "/marija/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.43868caa.chunk.css.map": "/marija/static/css/main.43868caa.chunk.css.map",
+    "static/css/main.64b4acb4.chunk.css.map": "/marija/static/css/main.64b4acb4.chunk.css.map",
     "static/js/2.1b58067f.chunk.js.LICENSE.txt": "/marija/static/js/2.1b58067f.chunk.js.LICENSE.txt",
     "static/media/auto.f01ac33c.JPG": "/marija/static/media/auto.f01ac33c.JPG",
     "static/media/beljenje.6205ec12.JPG": "/marija/static/media/beljenje.6205ec12.JPG",
@@ -49,7 +49,7 @@
     "static/js/runtime-main.3978ac82.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.1b58067f.chunk.js",
-    "static/css/main.43868caa.chunk.css",
+    "static/css/main.64b4acb4.chunk.css",
     "static/js/main.fe5df5fc.chunk.js"
   ]
 }
