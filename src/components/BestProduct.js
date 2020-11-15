@@ -17,14 +17,17 @@ export default function BestProduct() {
 	return (
 		<div className="best">
 			<div className="container">
-				<div className="row justify-content-center no-gutters">
+				<div className="row justify-content-center">
 					<div className="col-12">
 						<h1 className="mb-5 text-center">Najprodavaniji proizvodi</h1>
 					</div>
 					{action.map(index => (
-						<div className="col-6 col-sm-6 col-md-4 col-lg-3" key={index.id}>
+						<div
+							className="col-6 col-sm-6 col-md-4 col-lg-3 mb-5"
+							key={index.id}
+						>
 							<div className="card">
-								<img className="card-img" src={index.image} alt="Img" />
+								<img className="card-img" src={`${index.image}`} alt="Img" />
 								<div className="card-body text-center font-italic font-weight-bolder">
 									{index.title}
 								</div>

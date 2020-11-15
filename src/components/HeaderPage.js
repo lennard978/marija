@@ -3,7 +3,7 @@ import "./headerpage.css";
 
 export default function HeaderPage() {
 	return (
-		<div className="header-layout ">
+		<div className="header-layout vh-100 ">
 			<div className="layout"></div>
 			<div className="container">
 				<div className="row d-flex vh-100 justify-content-center align-items-center">

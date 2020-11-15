@@ -3,7 +3,7 @@
 		"id": 1,
 		"title": "True Touch",
 		"category": "ljubimci",
-		"image": "./images/truetouch.jpg",
+		"image": "../public/images/auto.JPG",
 		"price": 0,
 		"stars": 5,
 		"taxes": 120,

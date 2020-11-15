@@ -1,8 +1,9 @@
 .header-layout {
-	background-image: url("../slike/header.JPG");
+	background-image: url("../slike/header.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
+	background-attachment: fixed;
 }
 .layout {
 	position: absolute;
