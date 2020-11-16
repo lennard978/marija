@@ -5,3 +5,6 @@
 .best img {
 	min-height: 200px;
 }
+.card {
+	box-shadow: 2px 2px 10px lightgray;
+}

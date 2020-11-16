@@ -22,7 +22,13 @@ export default function Product() {
 						<div key={index.id} className="col-12 col-sm-12 col-md-6">
 							<div className="row border-primary border-top py-4 justify-content-center">
 								<div className="col-5 align-self-center">
-									<img src={index.image} className="img-fluid" alt="Product" />
+									<img
+										src={index.image}
+										width="100%"
+										height="100%"
+										className="img-fluid"
+										alt="Product"
+									/>
 								</div>
 								<div className="col-7 align-self-center">
 									<p className="m-0 lead font-weight-normal">{index.title}</p>

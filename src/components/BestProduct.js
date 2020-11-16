@@ -1,7 +1,7 @@
 import React, { useContext, useEffect } from "react";
 import "./bestproduct.css";
 import { MainContext } from "./MainProvider";
-
+import { FaShoppingCart } from "react-icons/fa/index";
 export default function BestProduct() {
 	const { actionValue } = useContext(MainContext);
 	const [action, setAction] = actionValue;
@@ -23,7 +23,7 @@ export default function BestProduct() {
 					</div>
 					{action.map(index => (
 						<div
-							className="col-6 col-sm-6 col-md-4 col-lg-3 mb-5"
+							className="col-12 col-sm-6 col-md-4 col-lg-3 mb-5"
 							key={index.id}
 						>
 							<div className="card">
@@ -37,6 +37,9 @@ export default function BestProduct() {
 										{index.price}
 									</span>{" "}
 									din
+									<button className="btn btn-primary mt-2 py-1 px-3 w-100">
+										<FaShoppingCart size={22} />
+									</button>
 								</div>
 							</div>
 						</div>
